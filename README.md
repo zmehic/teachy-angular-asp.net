@@ -10,10 +10,8 @@ My colleagues and I took part in this year's hackathon, which was organized by o
 
 ## What is "Teachy"?
 
-<div style="text-align:center;">
-    ![Image](https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/202ef656-f8ef-4d6f-bc80-e72d84c797aa)
-</div>
 ![Image](https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/202ef656-f8ef-4d6f-bc80-e72d84c797aa)
+
 "Teachy" uses AI (GPT-3.5 Turbo) to help teachers and students with everyday tasks they might encounter while using our Learning Management System. Tasks like creating and grading tests, finding answers to student questions, and gaining insights on test statistics are all automated for easier use and more efficient time management.
 
 ## Functionalities
