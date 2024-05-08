@@ -27,7 +27,7 @@ Student's main focus is on taking tests and analysing results. He can also make 
 ## Presentation
 You can check out the funcionalities mentioned above via this link, but there are some of the in-app images bellow for reference.
 
-(https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/202ef656-f8ef-4d6f-bc80-e72d84c797aa)
+![Img](https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/202ef656-f8ef-4d6f-bc80-e72d84c797aa)
 
 ## Conclusion
 This project aims to present some of many opportunities AI creates for us, which we can use if we want to make ourselves more productive. We hope that we've (to some extent) scratched the surface of what AI can bring to our Education systems and have learned something new along the pocess. 
