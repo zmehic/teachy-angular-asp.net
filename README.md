@@ -3,9 +3,13 @@ My colleagues and I took part in this year's hackathon, which was organized by o
 
 "Topdžije" team:
   • [Ensar Čevra](https://github.com/EnsarCevra)
+  
   • [Zaim Mehić](https://github.com/zmehic)
+  
   • [Armin Đidelija](https://github.com/ArminDjidelija)
+  
   • [Adnan Humačkić](https://github.com/AdnanHumackic)
+  
   • [Nedim Mustafić](https://github.com/nddim)
 
 ## What is "Teachy"?
