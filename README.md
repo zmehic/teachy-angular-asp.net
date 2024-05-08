@@ -11,9 +11,8 @@ My colleagues and I took part in this year's hackathon, which was organized by o
 ## What is "Teachy"?
 
 <p align="center">
-  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/202ef656-f8ef-4d6f-bc80-e72d84c797aa" alt="Description of the image">
+  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/202ef656-f8ef-4d6f-bc80-e72d84c797aa" alt="Logo">
 </p>
-![Image](https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/202ef656-f8ef-4d6f-bc80-e72d84c797aa)
 
 "Teachy" uses AI (GPT-3.5 Turbo) to help teachers and students with everyday tasks they might encounter while using our Learning Management System. Tasks like creating and grading tests, finding answers to student questions, and gaining insights on test statistics are all automated for easier use and more efficient time management.
 
@@ -33,6 +32,17 @@ Student's main focus is on taking tests and analysing results. He can also make 
 ## Presentation
 You can check out the funcionalities mentioned above via this link, but there are some of the in-app images bellow for reference.
 
+<p align="center">
+  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/8fca36ba-cd4a-44b6-91d9-84973e62c084" alt="Tests">
+</p>
+
+<p align="center">
+  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/b79e0f04-fd7e-4602-ae8f-e11c51d30804" alt="Test management">
+</p>
+
+<p align="center">
+  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/531ab320-296e-4daf-b9d5-e5a0de0f10c6" alt="Test taking">
+</p>
 
 ## Conclusion
 This project aims to present some of the many opportunities AI creates for us, which we can use to make ourselves more productive. We hope that we've (to some extent) scratched the surface of what AI can bring to our education systems and have learned something new along the process.
