@@ -38,15 +38,15 @@ Student's main focus is on taking tests and analysing results. He can also make 
 You can check out the funcionalities mentioned above via this link, but there are some of the in-app images bellow for reference.
 
 <p align="center">
-  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/8fca36ba-cd4a-44b6-91d9-84973e62c084" alt="Tests" width="500" height="200">
+  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/8fca36ba-cd4a-44b6-91d9-84973e62c084" alt="Tests" width="1000" height="600">
 </p>
 
 <p align="center">
-  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/b79e0f04-fd7e-4602-ae8f-e11c51d30804" alt="Test management" width="500" height="200">
+  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/b79e0f04-fd7e-4602-ae8f-e11c51d30804" alt="Test management" width="1000" height="600">
 </p>
 
 <p align="center">
-  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/531ab320-296e-4daf-b9d5-e5a0de0f10c6" alt="Test taking" width="500" height="200">
+  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/531ab320-296e-4daf-b9d5-e5a0de0f10c6" alt="Test taking" width="1000" height="600">
 </p>
 
 ## Conclusion
