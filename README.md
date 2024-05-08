@@ -2,6 +2,7 @@
 My colleagues and I took part in this year's hackathon, which was organized by our Local BEST Group in Mostar with the main focus of this year's theme being AI in Education. Our solution was a Learning Management System for schools and universities called "Teachy".
 
 "Topdžije" team:
+
   • [Ensar Čevra](https://github.com/EnsarCevra)
   
   • [Zaim Mehić](https://github.com/zmehic)
