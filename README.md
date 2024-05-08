@@ -35,7 +35,7 @@ The teacher can, if they choose to do so, create tests automatically using AI, w
 Student's main focus is on taking tests and analysing results. He can also make use of the built-in ChatBot.
 
 ## Presentation
-You can check out the funcionalities mentioned above via this link, but there are some of the in-app images bellow for reference.
+You can check out the funcionalities mentioned above via this [link](https://youtu.be/eN9VZ4-aUvk), but there are some of the in-app images bellow for reference.
 
 <p align="center">
   <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/8fca36ba-cd4a-44b6-91d9-84973e62c084" alt="Tests" width="800" height="400">
