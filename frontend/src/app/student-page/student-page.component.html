@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Collapsible sidebar using Bootstrap 4</title>
+
+  <!-- Bootstrap CSS CDN -->
+  <!--  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">-->
+  <!-- Our Custom CSS -->
+  <!--  <link rel="stylesheet" href="style4.css">-->
+
+  <!-- Font Awesome JS -->
+  <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+  <!-- Sidebar  -->
+  <nav id="sidebar">
+    <div class="sidebar-header">
+      <a>
+        <h3>eŠkola</h3>
+      </a>
+      <a routerLink="">
+        <strong>eŠ</strong>
+      </a>
+    </div>
+
+    <ul class="list-unstyled components">
+      <li >
+        <a routerLink="/student/pocetna">
+          <i class="fa fa-home"></i>
+          Početna stranica
+        </a>
+        <!--        <a href="#homeSubmenu" data-bs-toggle="collapse" aria-expanded="false" class="dropdown-toggle">-->
+        <!--          <i class="fa fa-home"></i>-->
+        <!--          Home-->
+        <!--          <i class="fa fa-angle-down" aria-hidden="true"></i>-->
+
+        <!--        </a>-->
+        <!--        <ul class="collapse list-unstyled" id="homeSubmenu">-->
+        <!--          <li>-->
+        <!--            <a href="#">Home 1</a>-->
+        <!--          </li>-->
+        <!--          <li>-->
+        <!--            <a href="#">Home 2</a>-->
+        <!--          </li>-->
+        <!--          <li>-->
+        <!--            <a href="#">Home 3</a>-->
+        <!--          </li>-->
+        <!--        </ul>-->
+      </li>
+      <li >
+        <a routerLink="/student/materijali">
+          <i class="fa fa-file"></i>
+          Materijali
+        </a>
+        <!--        <a href="#homeSubmenu" data-bs-toggle="collapse" aria-expanded="false" class="dropdown-toggle">-->
+        <!--          <i class="fa fa-home"></i>-->
+        <!--          Home-->
+        <!--          <i class="fa fa-angle-down" aria-hidden="true"></i>-->
+
+        <!--        </a>-->
+        <!--        <ul class="collapse list-unstyled" id="homeSubmenu">-->
+        <!--          <li>-->
+        <!--            <a href="#">Home 1</a>-->
+        <!--          </li>-->
+        <!--          <li>-->
+        <!--            <a href="#">Home 2</a>-->
+        <!--          </li>-->
+        <!--          <li>-->
+        <!--            <a href="#">Home 3</a>-->
+        <!--          </li>-->
+        <!--        </ul>-->
+      </li>
+      <li>
+        <a routerLink="/student/testovi">
+
+          <i class="fa fa-check" aria-hidden="true"></i>
+          Testovi
+        </a>
+
+
+        <!--        <a href="#pageSubmenu" data-bs-toggle="collapse" aria-expanded="false" class="dropdown-toggle">-->
+        <!--          <i class="fa fa-copy"></i>-->
+        <!--          Pages-->
+        <!--          <i class="fa fa-angle-down" aria-hidden="true"></i>-->
+
+        <!--        </a>-->
+        <!--        <ul class="collapse list-unstyled" id="pageSubmenu">-->
+        <!--          <li>-->
+        <!--            <a href="#">Page 1</a>-->
+        <!--          </li>-->
+        <!--          <li>-->
+        <!--            <a href="#">Page 2</a>-->
+        <!--          </li>-->
+        <!--          <li>-->
+        <!--            <a href="#">Page 3</a>-->
+        <!--          </li>-->
+        <!--        </ul>-->
+      </li>
+      <li>
+        <a routerLink="/student/zavrseni">
+          <i class="fa fa-flag" aria-hidden="true"></i>
+          Završeni testovi
+        </a>
+      </li>
+      <hr>
+      <li>
+        <a style="cursor: pointer">
+
+
+          <i class="fa fa-sign-out" aria-hidden="true"  (click)="odjaviSe()"> Sign out</i>
+
+        </a>
+      </li>
+      <!--      <li>-->
+      <!--        <a href="#">-->
+      <!--          <i class="fa fa-image"></i>-->
+      <!--          Portfolio-->
+      <!--        </a>-->
+      <!--      </li>-->
+      <!--      <li>-->
+      <!--        <a href="#">-->
+      <!--          <i class="fa fa-question"></i>-->
+      <!--          FAQ-->
+      <!--        </a>-->
+      <!--      </li>-->
+      <!--      <li>-->
+      <!--        <a href="#">-->
+      <!--          <i class="fa fa-paper-plane"></i>-->
+      <!--          Contact-->
+      <!--        </a>-->
+      <!--      </li>-->
+    </ul>
+
+    <!--    <ul class="list-unstyled CTAs">-->
+    <!--      <li>-->
+    <!--        <a href="" class="download">Download</a>-->
+    <!--      </li>-->
+    <!--      <li>-->
+    <!--        <a href="" class="article">Back</a>-->
+    <!--      </li>-->
+    <!--    </ul>-->
+
+  </nav>
+
+  <!-- Page Content  -->
+  <div id="content">
+
+
+    <router-outlet>    </router-outlet>
+
+  </div>
+
+</div>
+
+
+
+</body>
+
+</html>
