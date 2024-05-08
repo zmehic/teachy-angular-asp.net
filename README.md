@@ -11,7 +11,7 @@ My colleagues and I took part in this year's hackathon, which was organized by o
 ## What is "Teachy"?
 
 <p align="center">
-  <img src="[image_url](https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/202ef656-f8ef-4d6f-bc80-e72d84c797aa)" alt="Description of the image">
+  <img src="https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/202ef656-f8ef-4d6f-bc80-e72d84c797aa" alt="Description of the image">
 </p>
 ![Image](https://github.com/zmehic/teachy-angular-asp.net/assets/60481114/202ef656-f8ef-4d6f-bc80-e72d84c797aa)
 
